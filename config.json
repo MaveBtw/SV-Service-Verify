@@ -1,0 +1,6 @@
+{
+    "token": "BotToken", 
+    "guildId": "ServerID",
+    "verifyRole": "RollenID",
+    "verifyChannel": "ChannelID"
+}
